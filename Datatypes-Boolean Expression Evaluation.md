@@ -27,5 +27,6 @@ print("d:",d)
 ```
 ## Output
 <img width="439" height="249" alt="image" src="https://github.com/user-attachments/assets/c401396c-0699-419f-9de0-7b39c18f0124" />
+
 ## Result
 Thus,the PPython program that evaluates and prints the results of boolean and arithmetic expressions involving True and False is created successfully.
